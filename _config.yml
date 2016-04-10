@@ -1,0 +1,28 @@
+name: Hood Champion
+favicon: null
+layout_spectrum: 0.7819800241850317
+typography_spectrum: 0.9898557662963867
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2630029749125242
+  lightness: 0.1711382595822215
+  saturation: 0.4979267092421651
+  rhythmicContrast: 0.6313134799711406
+purpose: []
